@@ -4,7 +4,11 @@ Startup Workshop Series (2018-07-31) VPC-EC2-S3-RDS
 
 Today we are going to practice a very simple scenario, create a VPC with different network topology, include public subnet and private subnet. And we will create bastion machine, Application Load Balancer with Web server, a backend machine inside the private subnet, a RDS server and also a S3 bucket.
 
+今天我們將練習一個非常簡單的場景，創建一個具有不同網絡拓撲的VPC，包括公有子網和私有子網。我們將創建堡壘機，帶Web服務器的應用程序負載均衡器，私有子網內的後端機器，RDS服務器以及S3存儲桶。
+
 Looks complicated, but it is designed to be a very wide usage sample for most general scenario.
+
+看起來很複雜，但它被設計成一個非常廣泛的使用樣本，適用於大多數一般情況。
 
 ![AWS Workshop Series - VPCEC2S3RDS](https://raw.githubusercontent.com/juntinyeh/AWSWorkshop-20180731-VPC-EC2-S3-RDS/master/images/vpcec2s3rds.png)
 
